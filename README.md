@@ -1,1 +1,1 @@
-# VRChat-Quest-Mods
+Check the Releases for Mods/Plugins
