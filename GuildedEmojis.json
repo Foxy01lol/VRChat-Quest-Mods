@@ -1,0 +1,42 @@
+{
+    "name": "Guilded emojis",
+    "author": "Foxy01lol",
+    "emotes": [
+        {
+            "name": "Android",
+            "url": "https://cdn.discordapp.com/emojis/1126542358197043256.webp?size=96&quality=lossless"
+        },
+        {
+            "name": "Apple",
+            "url": "https://cdn.discordapp.com/emojis/1126542383090237450.webp?size=96&quality=lossless"
+        },
+        {
+            "name": "Meta",
+            "url": "https://cdn.discordapp.com/emojis/1126542395174039702.webp?size=96&quality=lossless"
+        },
+        {
+            "name": "PlayStation",
+            "url": "https://cdn.discordapp.com/emojis/1126542425385611315.webp?size=96&quality=lossless"
+        },
+        {
+            "name": "Pico",
+            "url": "https://cdn.discordapp.com/emojis/1126542413251498025.webp?size=96&quality=lossless"
+        },
+        {
+            "name": "Steam",
+            "url": "https://cdn.discordapp.com/emojis/1126542456285048862.webp?size=96&quality=lossless"
+        },
+        {
+            "name": "Standalone",
+            "url": "https://cdn.discordapp.com/emojis/1126542440363458610.webp?size=96&quality=lossless"
+        },
+        {
+            "name": "Xbox",
+            "url": "https://cdn.discordapp.com/emojis/1126542475125866537.webp?size=96&quality=lossless"
+        },
+        {
+            "name": "Moderator",
+            "url": "https://cdn.discordapp.com/emojis/1140438786547929229.webp?size=96&quality=lossless"
+        },
+    ]
+}
